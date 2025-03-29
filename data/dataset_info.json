@@ -1,4 +1,7 @@
 {
+  "sfzy": {
+    "file_name": "sfzy/train.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
@@ -232,7 +235,6 @@
   "ultrachat_200k": {
     "hf_hub_url": "HuggingFaceH4/ultrachat_200k",
     "ms_hub_url": "AI-ModelScope/ultrachat_200k",
-    "split": "train_sft",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages"
