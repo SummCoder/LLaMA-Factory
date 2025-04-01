@@ -2,6 +2,9 @@
   "sfzy": {
     "file_name": "sfzy/train.json"
   },
+  "sfzy_test": {
+    "file_name": "sfzy/valid.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
