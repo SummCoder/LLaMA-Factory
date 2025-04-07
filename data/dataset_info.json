@@ -5,6 +5,12 @@
   "sfzy_test": {
     "file_name": "sfzy/valid.json"
   },
+  "sfwd_train": {
+    "file_name": "/kaggle/input/lawllm-sfwd/sfwd/train.json"
+  },
+  "sfwd_test": {
+    "file_name": "/kaggle/input/lawllm-sfwd/sfwd/valid.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
