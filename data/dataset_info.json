@@ -11,6 +11,10 @@
   "sfzy_filter": {
     "file_name": "sfzy_cot/filtered_test.json"
   },
+  "test_step": {
+    "file_name": "sfzy_cot/test_step.json"
+
+  },
   "sfwd_train": {
     "file_name": "/kaggle/input/lawllm-sfwd/sfwd/train.json"
   },
