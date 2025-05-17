@@ -5,6 +5,9 @@
   "sfzy_test": {
     "file_name": "sfzy/valid.json"
   },
+  "sfzy_cot": {
+    "file_name": "sfzy_cot/test.json"
+  },
   "sfwd_train": {
     "file_name": "/kaggle/input/lawllm-sfwd/sfwd/train.json"
   },
