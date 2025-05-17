@@ -8,6 +8,9 @@
   "sfzy_cot": {
     "file_name": "sfzy_cot/test.json"
   },
+  "sfzy_filter": {
+    "file_name": "sfzy_cot/filtered_test.json"
+  },
   "sfwd_train": {
     "file_name": "/kaggle/input/lawllm-sfwd/sfwd/train.json"
   },
