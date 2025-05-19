@@ -15,8 +15,11 @@
     "file_name": "sfzy_cot/test_step.json"
 
   },
-  "sfzy_react": {
-    "file_name": "sfzy_react/test.json"
+  "sfzy_struct": {
+    "file_name": "sfzy_struct/test.json"
+  },
+  "sfzy_think": {
+    "file_name": "sfzy_think/test.json"
   },
   "sfwd_train": {
     "file_name": "/kaggle/input/lawllm-sfwd/sfwd/train.json"
